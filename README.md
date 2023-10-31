@@ -25,12 +25,15 @@
 - rock beats scissors
 - repeat game if player and computer pick the same option
 
-#code snippets that may come in handy
-"""
+## Code snippets that may come in handy
+'''
+# a loop to repeat logic until a specific condition
 while a < b:
   print("this is a loop"
+
+# logic to only do when the requirements are met  
 if a:
   print("a is true and a can be a single thing, or a statement")
 else:
   print("a must not be true")
-"""
+'''
