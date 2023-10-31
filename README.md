@@ -1,10 +1,16 @@
-# Create a Rock, Paper, Scissors game
+# Create a Rock, Paper, Scissors game using Python!
 ## Requirements
-- User Input to choose "rock", "paper" or "scissors"
+- User Input to choose "rock", "paper", or "scissors"
 - Repeat user input if not in choice options
 - Randomly pick computer choice
 - Apply game rules
 - Print message with choices and result
+
+## Need a place to start?
+- go to https://github.com/flomflam/Rock-Paper-Scissors
+- copy the contents of main.py
+- follow this link to go and run the code: https://www.programiz.com/python-programming/online-compiler/
+- paste the contents and hit run 
 
 ## Nice-to-have
 - ask user for number of games
