@@ -22,3 +22,13 @@
 - paper beats rock
 - rock beats scissors
 - repeat game if player and computer pick the same option
+
+#code snippets that may come in handy
+"""
+while a < b:
+  print("this is a loop"
+if a:
+  print("a is true and a can be a single thing, or a statement")
+else:
+  print("a must not be true")
+"""
