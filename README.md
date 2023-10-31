@@ -26,7 +26,7 @@
 - repeat game if player and computer pick the same option
 
 ## Code snippets that may come in handy
-'''
+```python
 # a loop to repeat logic until a specific condition
 while a < b:
   print("this is a loop"
@@ -36,4 +36,4 @@ if a:
   print("a is true and a can be a single thing, or a statement")
 else:
   print("a must not be true")
-'''
+```
