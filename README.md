@@ -29,7 +29,7 @@
 ```python
 # a loop to repeat logic until a specific condition
 while a < b:
-  print("this is a loop"
+  print("this is a loop")
 
 # logic to only do when the requirements are met  
 if a:
