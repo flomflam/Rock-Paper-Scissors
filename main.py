@@ -18,7 +18,7 @@ user_input = input("Select rock, paper, or scissors: ")
 print(user_input)
 
 # Repeat user input if not in the options (variable named list)
-while user not in list:
+while user_input not in list:
     user_input = input("Select rock, paper, or scissors: ")
     print(user_input)
 
