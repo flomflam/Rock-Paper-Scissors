@@ -20,7 +20,7 @@
 - add in additional choices example: lizard, spock
 
 ## Rules
-- scissors beat paper
+- scissors beats paper
 - paper beats rock
 - rock beats scissors
 - repeat game if player and computer pick the same option
