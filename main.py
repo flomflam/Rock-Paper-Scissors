@@ -65,12 +65,13 @@ def determine_winner(user_input, computer_input):
             print("Rock smashes scissors! You lose.")
 
 def play_again():
-    play_option =['Y', 'y', 'N', 'n']
-    play_again_input = input("Play again? (y/n): ")
-    while play_again_input not in play_option:
+    play_again_options =['Y', 'y', 'N', 'n']
+    play_again_input=input("Play again? (y/n): ")
+    while play_again_input not in play_again_options:
         play_again_input = input("Play again? (y/n): ")
-        if play_again_input.lower() != "n":
-            play_game()
+    if play_again_input.lower() != "n":
+            play_game()  
+        
         
     
 play_game()
