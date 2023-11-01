@@ -13,11 +13,14 @@ user_input = ''
 
 #a function to request the user's response
 user_input = input("Select rock, paper, or scissors: ")
+
 #prints the input received from the user
 print(user_input)
 
 # Repeat user input if not in the options (variable named list)
-
+while user not in list:
+    user_input = input("Select rock, paper, or scissors: ")
+    print(user_input)
 
 # Randomly pick computer choice
 #a variable (named computer_input) to hold the computer's random response
